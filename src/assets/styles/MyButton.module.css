@@ -1,0 +1,12 @@
+.btn {
+  padding: 5px 15px;
+  color: teal;
+  font-size: 14px;
+  background: transparent;
+  border-bottom: 1px solid teal;
+  cursor: pointer;
+}
+
+.btn:not(last-child) {
+  margin-right: 10px;
+}
